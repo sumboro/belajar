@@ -1,4 +1,3 @@
 <?php
 
-echo "Hello i'm Boro!";
-echo "test";
+echo "Hello i'm Boro this is my account!";
